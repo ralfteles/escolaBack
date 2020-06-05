@@ -1,0 +1,21 @@
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.deps.json
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.dll
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.pdb
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csprojAssemblyReference.cache
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfoInputs.cache
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfo.cs
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.dll
+C:\Users\ralf_\source\repos\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.pdb
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.deps.json
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.dll
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.pdb
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csprojAssemblyReference.cache
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfoInputs.cache
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfo.cs
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.dll
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.pdb
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.runtimeconfig.json
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.runtimeconfig.dev.json
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.genruntimeconfig.cache
+C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csproj.CoreCompileInputs.cache

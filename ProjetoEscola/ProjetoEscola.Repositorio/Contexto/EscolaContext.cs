@@ -20,12 +20,6 @@ namespace ProjetoEscola.Repositorio.Contexto
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(EscolaContext).Assembly);
-
-            //modelBuilder.Entity<Turma>()
-            //                   .HasOne(x => x.Escola)
-            //                   .WithMany(u => u.Turmas)
-            //                   .HasForeignKey(x => x.EscolaId);
-
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

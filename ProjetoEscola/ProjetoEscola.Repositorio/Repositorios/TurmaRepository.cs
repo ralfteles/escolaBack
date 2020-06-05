@@ -15,7 +15,7 @@ namespace ProjetoEscola.Repositorio.Repositorios
     {
         public async Task<IEnumerable<Turma>> ObterTurmasDaEscola(Guid idEscola)
         {
-            return await _escolaContext.Turma.Where(t=>t.EscolaId == idEscola).ToListAsync();
+            return await _escolaContext.Turma.Where(t => t.EscolaId == idEscola).ToListAsync();
         }
     }
 }

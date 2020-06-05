@@ -44,14 +44,14 @@ namespace ProjetoEscola.API.Controllers
 
 
         [HttpPost("AdicionarTurma")]
-        public IActionResult AdicionarTurma(TurmaViewModel escola)
+        public IActionResult AdicionarTurma(TurmaViewModel turmaVm)
         {
             try
             {
-                var escolaEntity = _mapper.Map<Turma>(escola);
+                var escolaEntity = _mapper.Map<Turma>(turmaVm);
                 _turmaApplication.Adicionar(escolaEntity);
 
-                return Ok(new StatusServer("Turma adicionada com sucesso!"));
+                return Ok(new StatusServer($"Turma {turmaVm.nome} adicionada com sucesso!"));
             }
             catch (Exception ex)
             {

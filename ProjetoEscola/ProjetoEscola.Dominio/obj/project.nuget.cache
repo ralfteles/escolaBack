@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/E8Hgy2sRN5SV4q0c+6KVu0PwSg93Pb/fnW6rD+hmYXGOlWFbqIzedeVNjWElIHfwam6RlIZR82XmUCJrnXfuQ==",
+  "dgSpecHash": "BJ3QTo4hJL29lafNy/djAU8EPXF7LEyOmsDMt59GZK/nZ+2M1yp5UKrxMvSeCPLA2qcUtlp/lhhU60XzR3uRWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P1YE+4qeQrgpZR4jIFwe9B52rGBTBoKgHMbLFemo5UCjqmspfgh3iGKVItLoH0tsJOasw4pcJxTvoCyiI3UgVQ==",
+  "dgSpecHash": "leqf+jq6AernpnoQjexIlcGGudjZo/zW2WNNoFE8ub72Cfq99FYb2jgQcbaIgpWhprJQO4GsqMZX8j5wb+B5Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj",
+  "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.7\\microsoft.aspnet.cors.5.2.7.nupkg.sha512",

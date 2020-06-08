@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KTTgH+thHgv3ue92yXtSjEw2D4hHpc7kDowkBmm+bApfsAMtk45iOaTFSBLUh2qwcy5iQI7JPrujbKCdLVAqOg==",
+  "dgSpecHash": "pnHSkzdJXZqnYQhc2YIjbAM/m9Bescs7VgC4+7cdtB6ag2w6u47uCvZtJ4KsgA4pGR07QoEheG8vwFhiKV40uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj",
+  "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

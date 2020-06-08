@@ -19,3 +19,15 @@ C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\ne
 C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.runtimeconfig.dev.json
 C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.genruntimeconfig.cache
 C:\Users\Rafael Teles\Documents\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.deps.json
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.runtimeconfig.json
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.runtimeconfig.dev.json
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.dll
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\bin\Debug\netcoreapp3.1\ProjetoEscola.Dominio.pdb
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csprojAssemblyReference.cache
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfoInputs.cache
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfo.cs
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.dll
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.pdb
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.genruntimeconfig.cache

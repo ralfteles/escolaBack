@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj": {}
+    "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj": {
+    "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj",
         "projectName": "ProjetoEscola.API",
-        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj",
+        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj",
         "packagesPath": "C:\\Users\\Rafael Teles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.API\\obj\\",
+        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,14 +27,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj": {
-                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj"
+              "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj"
               },
-              "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj"
+              "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj"
               },
-              "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj": {
-                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj"
+              "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj"
               }
             }
           }
@@ -111,14 +111,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj": {
+    "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj",
         "projectName": "ProjetoEscola.Aplicacao",
-        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj",
+        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Aplicacao\\ProjetoEscola.Aplicacao.csproj",
         "packagesPath": "C:\\Users\\Rafael Teles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Aplicacao\\obj\\",
+        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,8 +134,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj"
+              "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj"
               }
             }
           }
@@ -185,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
+    "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj",
         "projectName": "ProjetoEscola.Dominio",
-        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj",
+        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj",
         "packagesPath": "C:\\Users\\Rafael Teles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -259,14 +259,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj": {
+    "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj",
         "projectName": "ProjetoEscola.Repositorio",
-        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj",
+        "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Repositorio\\ProjetoEscola.Repositorio.csproj",
         "packagesPath": "C:\\Users\\Rafael Teles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Repositorio\\obj\\",
+        "outputPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -282,8 +282,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj"
+              "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj"
               }
             }
           }

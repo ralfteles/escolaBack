@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3tDkY8Valmojc8XA8s3AoNnFCA5MX0QMgniI7474E0qMLqFpOnOPPcDFAcN/CdmQ2rDaADd8+bzx6/Kfq6dpJw==",
+  "dgSpecHash": "Urc9tu38uR0EfVXLRkIfegXMD9PHenrZbKr8Qq5QKUjTP5tEj+v8F0l1SWln/4tal/v6KdJZvIS93jHXBAuRVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Test\\ProjetoEscola.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\Rafael Teles\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

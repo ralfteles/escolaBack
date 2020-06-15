@@ -24,7 +24,8 @@ namespace ProjetoEscola.Dominio.Entidade
         public void SetNomeTurma(string nome)
         {
             if (string.IsNullOrEmpty(nome))
-                throw new Exception("Informe o nome da turma");
+                AddNotification("Nome", "Informe o nome da turma");
+                //throw new Exception("Informe o nome da turma");
 
             Nome = nome;
         }
@@ -32,7 +33,8 @@ namespace ProjetoEscola.Dominio.Entidade
         public void SetVagasDisponiveis(int total)
         {
             if (total <= 0)
-                throw new Exception("Quantidade de vagas precisa ser acima de zero");
+                AddNotification("Vagas", "Quantidade de vagas precisa ser acima de zero");
+            //throw new Exception("Quantidade de vagas precisa ser acima de zero");
 
             Vagas = total;
         }
@@ -40,7 +42,8 @@ namespace ProjetoEscola.Dominio.Entidade
         public void SetEscolaId(Guid escolaId)
         {
             if (escolaId == Guid.Empty)
-                throw new Exception("Informe a escola");
+                AddNotification("EscolaId", "Informe a escola");
+            //throw new Exception("Informe a escola");
 
             EscolaId = escolaId;
         }

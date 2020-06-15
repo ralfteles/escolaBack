@@ -8,7 +8,7 @@ namespace ProjetoEscola.Test.DominioTeste
 {
     public class EscolaDomainTest
     {
-        [Fact(DisplayName = "Adicionar Escola com sucesso")]
+        [Fact(DisplayName = "Adicionar Escola retorna sucesso")]
         [Trait("Categoria","Escola Trait Test")]
         public void Escola_InformarONome_RetornaSucesso()
         {
@@ -19,18 +19,21 @@ namespace ProjetoEscola.Test.DominioTeste
             var escola = new Escola(nomeEscola);
 
             //Assert
-            Assert.NotNull(escola);
+            Assert.True(escola.Valid);
         }
 
-        [Fact(DisplayName = "Escola não informada tem que retornar erro")]
+        [Fact(DisplayName = "Escola não informada tem que retornar invalido")]
         [Trait("Categoria", "Escola Trait Test")]
-        public void Escola_NaoInformarONome_RetornaErro()
+        public void Escola_NaoInformarONome_RetornaInvalido()
         {
             //Arrange
             string nomeEscola = "";
 
+             //Act
+            var escola = new Escola(nomeEscola);
+
             //Assert
-            Assert.Throws<Exception>(() => new Escola(nomeEscola));
+            Assert.True(escola.Invalid);
         }
     }
 }

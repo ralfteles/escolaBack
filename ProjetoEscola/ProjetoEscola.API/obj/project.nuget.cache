@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "leqf+jq6AernpnoQjexIlcGGudjZo/zW2WNNoFE8ub72Cfq99FYb2jgQcbaIgpWhprJQO4GsqMZX8j5wb+B5Mw==",
+  "dgSpecHash": "nUWFWjCTscm1+a4GjfR9wkxMBtrR9jiX9E64I++S0f5Z0foqeADiDiBNMs1t/awN7+p8OksD9mBljWhbcs4YXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.API\\ProjetoEscola.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael Teles\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.7\\microsoft.aspnet.cors.5.2.7.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.4\\microsoft.aspnetcore.jsonpatch.3.1.4.nupkg.sha512",

@@ -20,8 +20,8 @@ namespace ProjetoEscola.Dominio.Entidade
 
         public void SetNomeEscola(string descricao)
         {
-            if (string.IsNullOrEmpty(descricao))            
-                throw new Exception("Informe o nome da escola");
+            if (string.IsNullOrEmpty(descricao))
+                AddNotification("Descricao", "Favor informe a descrição");
             
             Descricao = descricao;
         }

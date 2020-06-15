@@ -27,7 +27,7 @@ C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Domin
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csprojAssemblyReference.cache
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfoInputs.cache
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.AssemblyInfo.cs
-C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.dll
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.pdb
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.genruntimeconfig.cache
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Dominio\obj\Debug\netcoreapp3.1\ProjetoEscola.Dominio.csproj.CoreCompileInputs.cache

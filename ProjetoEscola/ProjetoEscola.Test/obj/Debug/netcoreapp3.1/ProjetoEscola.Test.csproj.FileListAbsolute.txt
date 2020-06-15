@@ -134,3 +134,4 @@ C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Test\
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Test\bin\Debug\netcoreapp3.1\Moq.dll
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Test\obj\Debug\netcoreapp3.1\ProjetoEscola.Test.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.Test\bin\Debug\netcoreapp3.1\Flunt.dll

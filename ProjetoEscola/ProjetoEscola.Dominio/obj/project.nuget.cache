@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BJ3QTo4hJL29lafNy/djAU8EPXF7LEyOmsDMt59GZK/nZ+2M1yp5UKrxMvSeCPLA2qcUtlp/lhhU60XzR3uRWA==",
+  "dgSpecHash": "IXMVvzAETiIPv9RzdfQBcnbp/+4jbfUq0mwDZ4JHRmpZZClM1ScfuLQlOsWrmwhoXbfPqjsZQWwBDfBJaMea9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael Teles\\Documents\\Git\\escolaBack\\ProjetoEscola\\ProjetoEscola.Dominio\\ProjetoEscola.Dominio.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rafael Teles\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Rafael Teles\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

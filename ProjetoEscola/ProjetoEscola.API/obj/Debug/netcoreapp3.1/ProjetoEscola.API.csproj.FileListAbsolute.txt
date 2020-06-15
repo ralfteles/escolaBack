@@ -422,3 +422,4 @@ C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.API\o
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.API\obj\Debug\netcoreapp3.1\ProjetoEscola.API.dll
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.API\obj\Debug\netcoreapp3.1\ProjetoEscola.API.pdb
 C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.API\obj\Debug\netcoreapp3.1\ProjetoEscola.API.genruntimeconfig.cache
+C:\Users\Rafael Teles\Documents\Git\escolaBack\ProjetoEscola\ProjetoEscola.API\bin\Debug\netcoreapp3.1\Flunt.dll
